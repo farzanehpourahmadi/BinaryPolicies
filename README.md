@@ -6,7 +6,7 @@
 
 Each notebook trains three models (classical predictive, prescriptive, distributionally
 robust prescriptive), evaluates them on a close and a far test set, and reproduces the
-figures in the paper.
+figures.
 
 ## Requirements
 - Python 3.10+
